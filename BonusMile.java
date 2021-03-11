@@ -1,5 +1,5 @@
 public class BonusMile {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         int spentMoney = 150000;
         int coefficient = 2000;
         int bonusMile = spentMoney / coefficient;
